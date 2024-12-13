@@ -1,6 +1,10 @@
 * {
-  padding: 0;
-  margin: 0;
+  padding: 0 auto;
+  margin: 0 auto;
   box-sizing: border-box;
   width: 100%;
+}
+
+.testing {
+  margin-left: 50%;
 }
