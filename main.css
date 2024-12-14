@@ -1,14 +1,18 @@
 * {
-  padding: 0 auto;
-  margin: 0 auto;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
   width: 100%;
 }
 
+body {
+  min-height: 100vh;
+  background-color: rgb(53, 131, 131);
+  border: 2px dotted red;
+}
 .testing {
-  margin-left: 50%;
+  text-align: center;
 }
 
 .foots {
-  /* height: 50px; */
 }
