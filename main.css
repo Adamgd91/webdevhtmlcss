@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  width: 100%;
+  /* width: 100%; */
 }
 
 body {
@@ -14,5 +14,10 @@ body {
   text-align: center;
 }
 
-.foots {
+.forms {
+  align-items: center;
+  border: 2px dotted red;
+  display: flex;
+  justify-content: center; /* Horizontal centering */
+  align-items: center; /* Vertical centering */
 }
