@@ -10,14 +10,3 @@ body {
   background-color: rgb(27, 48, 105);
   border: 2px dotted red;
 }
-.testing {
-  text-align: center;
-}
-
-.forms {
-  align-items: center;
-  border: 2px dotted red;
-  display: flex;
-  justify-content: center; /* Horizontal centering */
-  align-items: center; /* Vertical centering */
-}
