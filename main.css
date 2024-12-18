@@ -7,6 +7,16 @@
 
 body {
   min-height: 100vh;
-  background-color: rgb(27, 48, 105);
+  background-color: #213555;
   border: 2px dotted red;
+  color: white;
+}
+
+.nav-container {
+  display: flex;
+}
+
+.logo {
+  color: #f0bb78;
+  font-size: 2em;
 }
